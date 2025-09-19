@@ -1,6 +1,6 @@
-# Project Magang — Golang Microservices (Admin, Users) + PostgreSQL + Gateway
+# Base Code PKMB — Golang Microservices (Admin, Users) + PostgreSQL + Gateway
 
-Project-magang adalah starter kit microservices berbasis **Golang** dengan **PostgreSQL** dan sebuah **Gateway** sederhana.
+Base Code PKMB adalah starter kit microservices berbasis **Golang** dengan **PostgreSQL** dan sebuah **Gateway** sederhana.
 Terdiri dari tiga service:
 - `services/admin` — service admin (REST)
 - `services/users` — service users (REST)
