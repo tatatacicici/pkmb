@@ -1,0 +1,24 @@
+#environment
+.env
+
+#binaries built on host
+services/*/admin-app
+services/*/users-app
+services/*/gateway-app
+
+#docker / build
+**tmp
+**/*.log
+*.exe
+*.out
+bin/
+vendor/
+node_modules/
+
+#ide/editor
+.vscode
+.ide
+*.swp
+
+#docker compose overrides
+docker-compose.override.yml
